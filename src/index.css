@@ -1,0 +1,52 @@
+
+p
+{
+text-align: justify;
+}
+
+#divstyle1
+{
+margin-top: 10%;
+}
+#divstyle2
+{
+background-image: -webkit-linear-gradient(16deg,#ff005a 0%,#ff5d2d 64%,#ffba00 100%);
+padding: 10%;
+color: white;
+}
+#divstyle3
+{
+font-weight: 700;
+}
+#divstyle4
+{
+    border: 1px solid black;
+cursor: pointer;
+font-weight: bold;
+border-radius: 50px;
+}
+#divstyle4:hover
+{
+background: white;
+}
+#fbtn
+{
+background: #ff3368;
+width: 65%;
+padding: 2%;
+border-radius: 50px;
+margin-top: 35px;
+color: white;
+font-weight: bold;
+}
+h3
+{
+font-weight: 700;
+}
+.form-control
+{
+border: 0px solid transparent;
+border-bottom: 1px solid black;
+width: 70%;
+margin: auto;
+}
